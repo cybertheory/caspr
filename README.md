@@ -1,2 +1,2 @@
 # caspr
-A convenience component library for jaspr.
+A convenient component library for jaspr. Inspired by Flutter's widgets.
