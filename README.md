@@ -4,7 +4,7 @@ A convenient UI component library for [Jaspr](https://github.com/schultek/jaspr/
 Caspr attempts to design its components to encapsulate HTML elements and give Jaspr more of a flutter-like feel. Much like Flutter widget libraries handle most of the low-level intricacies of app development out of the box.
 
 ## Target 
-If you are a Flutter developer, with minimal HTML/CSS experience and need a SSR or SSG website, or just a client-side app with good SEO, and Flutter Web is not working for you, Caspr is for you! We want to make using Jaspr and HTML website/app creation more approachable for beginners especially those coming from Flutter. 
+If you are a Flutter developer, with minimal HTML/CSS experience, need a SSR or SSG website, or just a client-side app with good SEO, and Flutter Web is not working for you, Caspr is for you! We want to make using Jaspr and HTML website/app creation more approachable for beginners especially those coming from Flutter. 
 
 ## Caspr does this by
 
