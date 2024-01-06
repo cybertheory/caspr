@@ -18,7 +18,7 @@ If you are a Flutter developer, with minimal HTML/CSS experience, need a SSR or 
 If anything is missing or needs to be extended, developers can always use Jaspr's lower-level components. But we will work to make sure you don't have to.
 
 
-## Caspr has 2 subsections:
- - Material - like Flutter's Material widgets based on Material UI
-   - Based on [Material Components for web](https://github.com/material-components/material-components-web)
+## Caspr has subpackages:
+ - Material - inspired by Flutter's Material widgets based on Material UI
+   - Jaspr Wrapper on [Material Components for web](https://github.com/material-components/material-components-web)
  - Utility Components - simple Utility Components that extend Jaspr's ease of use
