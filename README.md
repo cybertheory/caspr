@@ -7,7 +7,7 @@ Caspr attempts to design its components to encapsulate HTML elements and give Ja
 If you are a Flutter developer, with minimal HTML/CSS experience, need a SSR or SSG website, or just a client-side app with good SEO, and Flutter Web is not working for you, Caspr is for you! We want to make using Jaspr and HTML website/app creation more approachable for beginners especially those coming from Flutter. 
 
 ## Caspr does this by
-
+- Providing a set of components based on popular UI Design Frameworks
 - Using easy-to-read and common-sense attributes
 - Encapsulating all of Jaspr's basic DOM components
   - e.x The NavBar component for a website navbar has all the HTML/CSS manipulation done out-of-box
