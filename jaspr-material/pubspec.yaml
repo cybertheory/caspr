@@ -1,0 +1,17 @@
+name: jaspr_material
+description: Material UI implementation for Jaspr Web Framework
+version: 1.0.1
+repository: https://github.com/cybertheory/caspr/tree/main/packages/caspr-material
+
+environment:
+  sdk: ^3.2.3
+
+# Add regular dependencies here.
+dependencies:
+  jaspr: ^0.9.3
+  js: ^0.6.7
+  # path: ^1.8.0
+
+dev_dependencies:
+  lints: ^2.1.0
+  test: ^1.24.0

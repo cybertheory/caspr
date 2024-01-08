@@ -1,0 +1,19 @@
+name: button_test
+description: A classic web app using separate html, css and dart files with ssr & manual client hydration.
+version: 0.0.1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  caspr_material: ^1.0.1
+  jaspr: ^0.9.3
+
+dev_dependencies:
+  build_runner: ^2.4.0
+  jaspr_web_compilers: ^4.0.4
+  jaspr_builder: ^0.9.3
+  lints: ^2.1.0
+
+jaspr:
+  uses-ssr: true
